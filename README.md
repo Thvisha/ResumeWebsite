@@ -13,5 +13,3 @@ It is a multi-page personal website built using HTML and CSS to present my Resum
 HTML5 – for webpage structure
 CSS3 – for styling and layout
 GitHub Pages – for hosting the website
-🚀 Live Website
-file:///C:/Users/Thvishan/ResumeWebsite/biodata.html
