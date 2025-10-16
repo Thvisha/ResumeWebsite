@@ -20,5 +20,7 @@ It is a multi-page personal website built using HTML and CSS to present my Resum
 🛠 Technologies Used
 
 HTML5 – for webpage structure
+
 CSS3 – for styling and layout
+
 GitHub Pages – for hosting the website
