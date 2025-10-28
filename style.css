@@ -1,3 +1,4 @@
+
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -44,4 +45,143 @@ footer {
     color: white;
     padding: 10px;
     margin-top: 30px;
+}
+=======
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: #fdfdfd;
+    color: #333;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.intro {
+    text-align: center;
+    padding: 30px;
+}
+
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 15px;
+    background: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.profile-pic {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  display: block;
+  margin: 20px auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.biodata-section {
+  max-width: 800px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Table Styling */
+.biodata-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.biodata-table tr {
+  border-bottom: 1px solid #eee;
+}
+
+.biodata-table td {
+  padding: 10px 15px;
+  vertical-align: top;
+}
+
+.biodata-table td:first-child {
+  font-weight: 600;
+  width: 35%;
+  color: #222;
+}
+
+.biodata-table a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.biodata-table a:hover {
+  text-decoration: underline;
+}
+.resume {
+  max-width: 850px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 40px 50px;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.resume h3 {
+  border-bottom: 2px solid #00bfff;
+  padding-bottom: 5px;
+  margin-top: 30px;
+  color: #000;
+  font-size: 1.3rem;
+}
+
+/* Paragraphs and Lists */
+.resume p {
+  margin: 8px 0 10px 0;
+  color: #333;
+  font-size: 1rem;
+}
+
+.resume ul {
+  margin-left: 25px;
+  color: #444;
+}
+
+.resume li {
+  margin: 6px 0;
+}
+
+/* Email Link */
+.resume a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.resume a:hover {
+  text-decoration: underline;
 }
