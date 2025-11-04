@@ -24,3 +24,5 @@ HTML5 – for webpage structure
 CSS3 – for styling and layout
 
 GitHub Pages – for hosting the website
+
+https://thvisha.github.io/ResumeWebsite/
